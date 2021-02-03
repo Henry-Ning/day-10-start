@@ -4,3 +4,5 @@ def format_name(first_name, last_name):
   return formatted_first_name +" "+ formatted_last_name
 
 print(format_name("HenrY", "NING"))
+
+# 2-3 3 am
