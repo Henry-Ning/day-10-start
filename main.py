@@ -1,0 +1,6 @@
+def format_name(first_name, last_name):
+  formatted_first_name = first_name.title()
+  formatted_last_name = last_name.title()
+  return formatted_first_name +" "+ formatted_last_name
+
+print(format_name("HenrY", "NING"))
